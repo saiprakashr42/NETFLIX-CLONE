@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saiprakashr42/NETFLIX-CLONE.git/static/css/main.4200344b.chunk.css",
+    "main.js": "/saiprakashr42/NETFLIX-CLONE.git/static/js/main.5da2fae4.chunk.js",
+    "main.js.map": "/saiprakashr42/NETFLIX-CLONE.git/static/js/main.5da2fae4.chunk.js.map",
+    "runtime-main.js": "/saiprakashr42/NETFLIX-CLONE.git/static/js/runtime-main.db2f4448.js",
+    "runtime-main.js.map": "/saiprakashr42/NETFLIX-CLONE.git/static/js/runtime-main.db2f4448.js.map",
+    "static/js/2.824e959e.chunk.js": "/saiprakashr42/NETFLIX-CLONE.git/static/js/2.824e959e.chunk.js",
+    "static/js/2.824e959e.chunk.js.map": "/saiprakashr42/NETFLIX-CLONE.git/static/js/2.824e959e.chunk.js.map",
+    "index.html": "/saiprakashr42/NETFLIX-CLONE.git/index.html",
+    "static/css/main.4200344b.chunk.css.map": "/saiprakashr42/NETFLIX-CLONE.git/static/css/main.4200344b.chunk.css.map",
+    "static/js/2.824e959e.chunk.js.LICENSE.txt": "/saiprakashr42/NETFLIX-CLONE.git/static/js/2.824e959e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db2f4448.js",
+    "static/js/2.824e959e.chunk.js",
+    "static/css/main.4200344b.chunk.css",
+    "static/js/main.5da2fae4.chunk.js"
+  ]
+}
